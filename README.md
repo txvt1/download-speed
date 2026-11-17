@@ -36,7 +36,7 @@ python3 speedtest.py <URL>
 Пример:
 
 ```bash
-python3 speedtest.py https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg
+python3 speedtest.py https://files.cdn-files-a.com/uploads/9725547/normal_66ec3c0310898.jpg
 ```
 
 На Windows вместо `python3` используйте `python` или `py`.

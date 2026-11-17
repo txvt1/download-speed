@@ -28,7 +28,7 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/<ваш-логин>/download-speed.git
+git clone https://github.com/txvt1/download-speed.git
 cd download-speed
 python3 speedtest.py <URL>
 ```
